@@ -48,9 +48,6 @@
 ### ⚡ Fun Fact
 I started off as a "script kiddie" — now I’m passionate about real-world exploits, securing systems, and updating in the cyber world!
 
----
 
-### 📊 GitHub Stats
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkardeshmukh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkardeshmukh&layout=compact&theme=tokyonight)
+
 
