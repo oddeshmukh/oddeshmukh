@@ -56,8 +56,9 @@ I started off as a "script kiddie" — now I’m passionate about real-world exp
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=omkardeshmukh&theme=darkhub)
+- ### 🏆 GitHub Trophies
+- ![Trophy](https://github-profile-trophy.vercel.app/?username=omkardeshmukh&theme=darkhub)
++ ### 🏆 Achievements
++ <img src="assets/trophies.png" width="300"/>
 
----
 
