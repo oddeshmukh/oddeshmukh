@@ -11,14 +11,10 @@
 **💻 Programming Languages:**    
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-
-
-**🛡️ Cybersecurity Tools & Platforms:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)                   **🛡️ Cybersecurity Tools & Platforms:**  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)  
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=data:image/svg+xml;base64)  
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
