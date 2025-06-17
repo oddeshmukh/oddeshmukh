@@ -41,7 +41,7 @@
 ### 📫 Let's Connect
 - 📧 **odeshmukh634@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/omkar-deshmukh-13562a223/)  
-- 🧑‍💻 [GitHub](https://github.com/omkardeshmukh)
+- 🧑‍💻 [GitHub](https://github.com/oddeshmukh)
 
 ---
 
