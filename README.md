@@ -11,7 +11,9 @@
 **💻 Programming Languages:**    
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)                   **🛡️ Cybersecurity Tools & Platforms:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
+
+ **🛡️ Cybersecurity Tools & Platforms:**  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)  
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite)  
