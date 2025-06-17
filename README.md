@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Let's Connect
-- 📧 **omkardeshmukh327@gmail.com**  
+- 📧 **odeshmukh634@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/omkar-deshmukh-2408)  
 - 🧑‍💻 [GitHub](https://github.com/omkardeshmukh)
 
