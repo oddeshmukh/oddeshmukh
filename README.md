@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <!--
-**oddeshmukh/oddeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Hello, my name is Omkar Deshmukh. I’m currently in my third year of Computer Engineering at Sinhgad Academy of Engineering. I have a strong interest in cybersecurity and networking. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
