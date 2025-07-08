@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity projects, secure web apps, and student-focused tech tools**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omkar-deshmukh-13562a223/](https://www.linkedin.com/in/omkar-deshmukh-13562a223/)
-
 - 💬 Ask me about **Networking, Ethical Hacking, Kali-Linux tools, Basic Bug Bounty**
 
 - 📫 How to reach me **odeshmukh634@gmail.com**
 
-- ⚡ Fun fact **I started off as a "script kiddie" — now I’m passionate about real-world exploits, securing systems, and updating in the cyber world!**
+- ⚡ Fun fact **I started off as a "script kiddie" — now I’m passionate about real-world exploits, and updating in the cyber world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
