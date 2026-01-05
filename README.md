@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Deshmukh</h1>
-<h3 align="center">🎓 I'm a 3rd-year Computer Engineering student at Sinhgad Academy of Engineering, Pune. 🔐 I’m passionate about Cybersecurity, Networking, and Ethical Hacking. 💡 I’ve interned in Penetration Testing and Cyber Forensics, working with real-world scenarios and red-teaming concepts.</h3>
+<h3 align="center">🎓 I'm a 4th-year Computer Engineering student at Sinhgad Academy of Engineering, Pune. 🔐 I’m passionate about Cybersecurity, Networking, and Ethical Hacking. 💡 I’ve interned in Penetration Testing and Cyber Forensics, working with real-world scenarios and red-teaming concepts.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oddeshmukh" alt="oddeshmukh" /></a> </p>
 
